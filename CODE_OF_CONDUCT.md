@@ -8,4 +8,4 @@ You are not authorized to edit, change or delete the card of any student include
 
 And lastly, respect the views of others and treat everyone respectfully in this project.
 
-
+Cheers.
