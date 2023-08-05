@@ -7,6 +7,7 @@ The project is deployed on netlify here https://tentoesmedia-students-cards.netl
 *****************************************
 
 HOW TO USE
+
 Fork this repository, clone to your local machine.
 
 Add your image to the "img" folder (Please look at the size of other images and follow suit).
