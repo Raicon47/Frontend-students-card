@@ -4,6 +4,23 @@
 
 The project is deployed on netlify here https://tentoesmedia-students-cards.netlify.app/
 
+*****************************************
+
+HOW TO USE
+Fork this repository, clone to your local machine.
+
+Add your image to the "img" folder (Please look at the size of other images and follow suit).
+
+copy the last card and the edit your image, name, number, and what you are enthusiastic about.
+
+"Commit" the changes to your repo.
+
+"Push" the repository to the branch.
+
+
+
+******************************************
+
 This project is licensed under the terms of the MIT license.
 
 Copyright (c) 2023 Tentoes Media and Services
